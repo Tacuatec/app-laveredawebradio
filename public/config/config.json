@@ -1,0 +1,54 @@
+{
+  "radio": [
+    {
+      "radio_name": "La Vereda WebRadio",
+      "radio_genre": "Rock",
+      "radio_url": "https://srv2.radiostreamuy.com:8010/stream",
+      "radio_image_url": "https://app.laveredawebradio.com/img/radio_logo.png",
+      "background_image_url": "https://app.laveredawebradio.com/img/bg_radio.jpg"
+    }
+  ],
+  "settings": [
+    {
+      "onesignal_app_id": "c2744cf7-7441-4693-9b98-c8a5e0d2fe81",
+      "fcm_notification_topic": "lavereda_radio_topic",
+      "privacy_policy_url": "https://tacuatec.com/privacidad-apps.html",
+      "more_apps_url": "https://play.google.com/store/apps/developer?id=Tacuatec"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "off",
+      "ad_type": "admob",
+      "admob_publisher_id": "pub-3940256099942544",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/63009781xx",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/10331737xx",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/22476961xx",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/34198352xx",
+      "startapp_app_id": 0,
+      "unity_game_id": 4089959,
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "interstitial_ad_interval": 2
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "Sitio web",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
+      "social_url": "https://laveredawebradio.com"
+    },
+    {
+      "social_name": "Facebook",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61045.png",
+      "social_url": "https://www.facebook.com/LAVEREDAWEB"
+    },
+    {
+      "social_name": "Instagram",
+      "social_icon": "https://image.flaticon.com/icons/png/512/61/61164.png",
+      "social_url": "https://www.instagram.com/laveredawebradio"
+    }
+  ]
+}
