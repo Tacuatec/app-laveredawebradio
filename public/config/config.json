@@ -3,7 +3,7 @@
     {
       "radio_name": "La Vereda WebRadio",
       "radio_genre": "Rock",
-      "radio_url": "https://srv2.radiostreamuy.com:8010/stream",
+      "radio_url": "https://srv1.radiostreamuy.com/listen/la-vereda-webradio/stream",
       "radio_image_url": "https://app.laveredawebradio.com/img/radio_logo.png",
       "background_image_url": "https://app.laveredawebradio.com/img/bg_radio.jpg"
     }
